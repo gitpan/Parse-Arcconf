@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Parse-Arcconf
-version:            0.01
+version:            0.02
 abstract:           Parse the output of arcconf utility.
 author:
     - Mathieu Alorent <kumy@cpan.org>
